@@ -1,0 +1,9 @@
+{
+"resource_pack_name": "spawner_pickaxe",
+"texture_name": "atlas.items",
+"texture_data": {
+"spawner_pickaxe": {
+"textures": "textures/items/spawner_pickaxe"
+}
+}
+}
