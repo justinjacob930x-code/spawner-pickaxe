@@ -1,0 +1,17 @@
+{
+"format_version": 2,
+"en-tête": {
+"nom": "Pioche Spawner RP",
+"description": "Textures de la pioche a spawners",
+"uuid": "d6c4f5a7-8e91-42ab-8d34-e5f6a7b8c904",
+"version": [1, 0, 0],
+"min_engine_version": [1, 26, 40]
+},
+"modules": [
+{
+"type": "ressources",
+"uuid": "e7d5a6b8-9fa2-43bc-9e45-f6a7b8c9d005",
+"version": [1, 0, 0]
+}
+]
+}
